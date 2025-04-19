@@ -1,5 +1,6 @@
-Sawaddeekaa![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-=========================================================================================================================================
+
+<h1 align="center">Sawaddeekaa!<img src="https://media.giphy.com/media/JqK1kph1aSkCEuvAeN/giphy.gif" width="50" /> </h1>
+
 
 <h3 align="center">Sutthida Joiroong</h3>
 <p align="center">16yr aspiring game and web developer 🎮</p>
