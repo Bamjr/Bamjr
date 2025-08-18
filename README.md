@@ -3,7 +3,7 @@
 
 
 <h3 align="center">Sutthida Joiroong</h3>
-<p align="center">16yr aspiring game and web developer 🎮</p>
+<p align="center">17yrs aspiring game and web developer 🎮</p>
 
 ---
 
