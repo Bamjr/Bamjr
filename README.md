@@ -2,7 +2,7 @@
 <h1 align="center">Sawaddeekaa!<img src="https://media.giphy.com/media/JqK1kph1aSkCEuvAeN/giphy.gif" width="50" /> </h1>
 
 
-<h3 align="center">Sutthida Joiroong</h3>
+<h3 align="center">Sutthida Jr</h3>
 <p align="center">17yrs aspiring game and web developer 🎮</p>
 
 ---
@@ -10,7 +10,6 @@
 I’ve been interested in coding since elementary school. It all started with games on my brother’s computer— I was always curious about how they were made. That curiosity grew into a dream of making my own game one day, so I decided to start learning how to code. Now, I find coding genuinely fun, and I’ve started creating different kinds of projects— not just games, but also websites and more!
 
 *   🇹🇭  I'm based in Thailand
-*   ✉️  You can contact me at [sutthida.joi04@gmail.com](mailto:sutthida.joi04@gmail.com)
 *   🤝  I'm open to collaborating on Godot game project, Rpg maker mv and others!
 
 
