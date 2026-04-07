@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="url"><img src="https://github.com/Bamjr.png" height="auto" width="200" style="border-radius:50%"></a>
+  <a href="url"><img src="https://github.com/Bamjr.png" height="auto" width="100" style="border-radius:50%"></a>
 </p>
 
 <h1 align="center">Sawaddeekaa! I'm Bam <img src="https://media.giphy.com/media/JqK1kph1aSkCEuvAeN/giphy.gif" width="50" /> </h1>
