@@ -1,5 +1,5 @@
 
-<h1 align="center">Sawaddeekaa! I'm Bammy<img src="https://media.giphy.com/media/JqK1kph1aSkCEuvAeN/giphy.gif" width="50" /> </h1>
+<h1 align="center">Sawaddeekaa! I'm Bammy <img src="https://media.giphy.com/media/JqK1kph1aSkCEuvAeN/giphy.gif" width="50" /> </h1>
 
 
 <h3 align="center">Sutthida Jr</h3>
